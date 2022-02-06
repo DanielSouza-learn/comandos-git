@@ -7,4 +7,7 @@ git add adicionar um arquivo para o github
 git add -a adicionar todos arquivo para o github
 git add .  subir tudo mas so os que estão versionados
 git commit -m | "subindo os aquivos com uma informação"
+git commit -am subir todos e fazer um comentario
 git push | subir todas as alterações para o servidor
+git log todos os commit que foram feitos
+git revert 
