@@ -1,6 +1,6 @@
 git push local para remoto
 
-git status :  mostra as alterações
+git status :  mostra as alterações ou seja se tem mudanças para serem salvas
 git add  : 
 git diff : Comparando alterações com o git diff
 git add adicionar um arquivo para o github
