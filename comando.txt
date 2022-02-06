@@ -11,3 +11,5 @@ git commit -am subir todos e fazer um comentario
 git push | subir todas as alterações para o servidor
 git log todos os commit que foram feitos
 git revert 
+git pull : faz o update remoto para local
+git checkout 
