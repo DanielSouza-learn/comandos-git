@@ -1,0 +1,9 @@
+git push local para remoto
+
+git status :  mostra as alterações
+git add  : 
+git diff : Comparando alterações com o git diff
+git add adicionar um arquivo para o github
+git add -a adicionar todos arquivo para o github
+git commit -m | "subindo os aquivos com uma informação"
+git push | subir todas as alterações para o servidor
