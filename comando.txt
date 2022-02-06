@@ -12,4 +12,5 @@ git push | subir todas as alterações para o servidor
 git log todos os commit que foram feitos
 git revert 
 git pull : faz o update remoto para local
-git checkout 
+git checkout -b branche-2 : criar um ramificação nova
+git checkout main muda de raiz 
