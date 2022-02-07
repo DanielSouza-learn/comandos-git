@@ -13,4 +13,6 @@ git log todos os commit que foram feitos
 git revert 
 git pull : faz o update remoto para local
 git checkout -b branche-2 : criar um ramificação nova
+git checkout nomearquivo reverter um arquivo
 git checkout main muda de raiz 
+git rm file.txt deletar um arquivo
